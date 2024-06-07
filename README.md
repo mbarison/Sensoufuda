@@ -1,7 +1,9 @@
 # Sensoufuda
 
+Hanafuda-based abstract wargame system
+
 | Theatre      | Strategist  | Ribbon  | Animal    |
-+--------------+-------------+---------+-----------+
+|--------------|-------------|---------|-----------|
 | Air          | Air Marshal | Ace     | Fighter   |
 | Land         | General     |         | Tank      |
 | Sea          | Admiral     | Carrier | Submarine |
