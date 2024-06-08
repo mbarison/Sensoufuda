@@ -1,0 +1,15 @@
+LINK = deck.csv
+
+PAGE = 21.6, 27.9, PORTRAIT, HV
+
+FONT = Stardos Stencil, 18, BT, #000000
+TEXT = 1-48, [theatre], 5%, 4%, 90%, 10%, center, top
+TEXT = 1-48, [theatre], 5%, 86%, 90%, 10%, center, top, 180
+
+RECTANGLE = 1-48,15%,15%,70%,70%, [color]
+
+FONT = Stardos Stencil, 28, BT, #ffffff
+TEXT = 1-48, [type], 20%, 20%, 60%, 60%, center, center, 60
+TEXT = 1-48, [icon], 60%, 20%, 20%, 20%, center, center
+TEXT = 1-48, [icon], 20%, 60%, 20%, 20%, center, center, 180
+
