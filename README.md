@@ -2,17 +2,17 @@
 
 Hanafuda-based abstract wargame system
 
-| Theatre      | Strategist  | Ribbon  | Resources    |
-|--------------|-------------|---------|--------------|
-| Air          | Air Marshal | Ace     | Fighter      |
-| Land         | General     |         | Tank         |
-| Sea          | Admiral     | Carrier | Submarine    |
-| Industry     | Capitalist  | Rosie   | Factory      |
-| Propaganda   |             | Radio   | Newspaper    |
-| Intelligence | Spymaster   |         |              |
-| Diplomacy    |             |         |              |
-| Guerrilla    |             |         |              |
-| Technology   |             |         |              |
-| Space        |             |         |              |
-| Atomic      |             |         |              |
-| Cyberspace   |             |         |              |
+| Theatre      | Strategist  | Hero       | Resource     |
+|--------------|-------------|------------|--------------|
+| Air          | Air Marshal | Ace        |              |
+| Land         | General     |            | Tank         |
+| Sea          | Admiral     |            | Battleship   |
+| Industry     |             | Rosie      | Factory      |
+| Propaganda   |             | Influencer | Newspaper    |
+| Intelligence | Spy         | Bug        |              |
+| Diplomacy    | Ambassador  |            | Treaty       |
+| Guerrilla    |             | Partisan   | Dynamite     |
+| Technology   |             | Scientist  | Death Ray    |
+| Space        |             | Astronaut  | Satellite    |
+| Atomic       |             | Mutant     | Nuke         |
+| Cyberspace   |             | Hacker     | Virus        |
