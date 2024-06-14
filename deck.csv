@@ -1,6 +1,6 @@
 theatre,theatre_icon,color,type,type_icon
 Air,A,#98f5ff,Air Marshal,K
-Air,A,#98f5ff,Ace,H
+Air,A,#98f5ff,Ace,C
 Air,A,#98f5ff,,
 Air,A,#98f5ff,,
 Land,L,#8b7355,General,K
@@ -15,7 +15,7 @@ Industry,I,#838b8b,Rosie,H
 Industry,I,#838b8b,Factory,R
 Industry,I,#838b8b,,
 Industry,I,#838b8b,,
-Propaganda,P,#ff7f24,Influencer,H
+Propaganda,P,#ff7f24,Influencer,Z
 Propaganda,P,#ff7f24,Newspaper,R
 Propaganda,P,#ff7f24,,
 Propaganda,P,#ff7f24,,
@@ -27,7 +27,7 @@ Diplomacy,D,#68228b,Ambassador,K
 Diplomacy,D,#68228b,Treaty,R
 Diplomacy,D,#68228b,,
 Diplomacy,D,#68228b,,
-Guerrilla,G,#cd3333,Partisan,H
+Guerrilla,G,#cd3333,Partisan,C
 Guerrilla,G,#cd3333,Dynamite,R
 Guerrilla,G,#cd3333,,
 Guerrilla,G,#cd3333,,
@@ -35,12 +35,12 @@ Technology,T,#ee9a00,Scientist,H
 Technology,T,#ee9a00,Death Ray,R
 Technology,T,#ee9a00,,
 Technology,T,#ee9a00,,
-Space,Y,#0a0a0a,Astronaut,H
+Space,Y,#0a0a0a,Astronaut,C
 Space,Y,#0a0a0a,Satellite,R
 Space,Y,#0a0a0a,,
 Space,Y,#0a0a0a,,
 Atomic,N,#76ee00,Nuke,R
-Atomic,N,#76ee00,Mutant,H
+Atomic,N,#76ee00,Mutant,Z
 Atomic,N,#76ee00,,
 Atomic,N,#76ee00,,
 Cyberspace,W,#ff00ff,Hacker,H
