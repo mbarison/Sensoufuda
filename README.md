@@ -91,19 +91,19 @@ If not, play resumes with the next player.
 
 The first player triggering a Combo is declared Victorious and has two choices:
 
-1. **Declare Victory**: The player scores the VP granted by the Combo and ends the Battle. The game continue to the next Strategic Phase.
-2. **Press On**: The player wants to continue the battle, trying to inflict a larger defeat to their opponent. The opponent in turn has the choice to:
-   1. **Retreat**: the opponent concedes defeat, and retreats in good order. The victorious player scores the VP. The defeated, retreating player _keeps up to half of their unused hand cards for the next battle_. Fractions are rounded down. At the beginning of the next battle, the retreating player is dealt enough cards to fill their hand up to 8. The Ally deck is dealt as ususal. The game continue to the next Strategic Phase.
-   2. **Counterattack**: the defeated player risks their strategic reserves to fight back and try to revert the result of the battle.
+1. **Declare Victory**: The victorious player scores the VP granted by the Combo and ends the Battle. The game continues to the next Strategic Phase.
+2. **Press On**: The victorious player wants to continue the battle, trying to inflict a larger defeat to their opponent. The defeated player in turn has the choice to:
+   1. **Retreat**: concede defeat, and retreat in good order. The victorious player scores the VP. The retreating player _keeps up to half of their unused hand cards for the next battle_. Fractions are rounded down. At the beginning of the next battle, the retreating player is dealt enough cards to fill their hand up to 8. The Ally deck is dealt as ususal. The game continues to the next Strategic Phase.
+   2. **Counterattack**: the defeated player risks their strategic reserves to fight back and tries to revert the result of the battle.
 
 If the victorious player chooses **Press On** and the defeated player chooses **Counterattack**, the Battle resumes, starting with the defeated player.
 
-The goal of the victorious player is either to create an addtional Combo or to improve an existing one. An example of an improved combo is the victorious player having 5 Resources and getting a 6th Resource to improve the Combo.
-If the victorious player manages a successful **Press On**, the VP of all combos is added up and a 2x multiplier is applied.
-The victorious player can now **Declare Victory** or try again to **Press On**, and the defeated player can still decide to either **Retreat** or **Counterattack**.
-For each succesfull **Press On** the multiplier is increased by one: 2x, 3x, 4x. The fourth successful **Press On** action results in **Total Annihilation**: the defeated player's army is completely destroyed and the game ends immediately.
+To ensure a succesful **Press On** action, the goal of the victorious player is either to create an addtional Combo or to improve an existing one. An example of an improved combo is the victorious player having 5 Resources and getting a 6th Resource to improve the Combo.
+If the victorious player manages a successful **Press On** action, the VP of all combos is added up and a 2x multiplier is applied.
+The victorious player can now **Declare Victory** or try again to **Press On**; in the latter case, the defeated player can still decide to either **Retreat** or **Counterattack**.
+For each succesfull **Press On** action the multiplier is increased by one: 2x, 3x, 4x. The fourth successful **Press On** action results in **Total Annihilation**: the defeated player's army is completely destroyed and the game ends immediately.
 
 The goal of the defeated player to have a successful **Counterattack** is to create a Combo of their own. This Combo is successful even if its VP value is lower than the victorious player's Combo, and even if a multiplier is applied.
 A successful **Counterattack** turns the tables! The defeated player becomes victorious and must now decide how to resolve the battle, while the victorious player is now on the back foot and is forced to defend themselves.
 
-If during a **Press On/Counterattack** phase both players run out of cards in their hands and in their Ally deck without creating new Combos or improving existing ones, the battle is a **Stalemate**. All VP and special powers are discarded, new cards are dealt and a new Battle begins.
+If during a **Press On/Counterattack** phase both players run out of cards in their hands and in their Ally decks without creating new Combos or improving existing ones, the battle is a **Stalemate**. All VP and special powers are discarded, new cards are dealt and a new Battle begins.
