@@ -1,7 +1,7 @@
 PAGE = 21.6, 27.9, PORTRAIT, HV
 
-FONT = Tangerine, 36, BT, #ffaa00
-RECTANGLE = 1,0,0,100%,100%,#66023C
-IMAGE  = 1, "uncivil_back.png", 5%, 5%, 90%, 90%, 0, NP
-TEXT   = 1, "Uncivil", 5%, 1%, 90%, 15%, center, wwcenter, 0
-TEXT   = 1, "Servants", 5%, 87%, 90%, 12%, center, wwcenter, 0
+RECTANGLE = 1-9,0,0,100%,100%,#66023C
+IMAGE  = 1-9, "icons/camo.png", 5%, 5%, 90%, 90%, 90, NP
+
+FONT = Stardos Stencil, 28, BT, #ffffff
+TEXT = 1-9, "SENSOUFUDA", 5%, 5%, 90%, 90%, center, center, 60
