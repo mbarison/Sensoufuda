@@ -1,0 +1,42 @@
+unit=inch
+canvassize = 15, 15
+
+[xmin]=7%
+[xmax]=86%
+
+[h]=12.3%
+
+roundrect=0,[xmin],7%,[xmax],[h],#000000,GRADIENTSEQ(#000000#FFFFFF@90, 7, 1),0.1
+
+FONT = Stardos Stencil, 36, BT, #000000
+TEXT = 0,"PALADINS OF HOPE",[xmin],7%,[xmax],[h],CENTER,CENTER,180
+
+roundrect=0,[xmin],19.3%,[xmax],[h],#000000,GRADIENTSEQ(#000000#FFFFFF@90, 7, 2),0.1
+roundrect=0,[xmin],31.6%,[xmax],[h],#000000,GRADIENTSEQ(#000000#FFFFFF@90, 7, 3),0.1
+roundrect=0,[xmin],43.9%,[xmax],[h],#000000,GRADIENTSEQ(#000000#FFFFFF@90, 7, 4),0.1
+
+FONT = Stardos Stencil, 36, BT, #ffffff
+TEXT = 0,"START",[xmin],43.4%,38%,[h],LEFT,CENTER,180
+FONT = Stardos Stencil, 36, BT, #000000
+TEXT = 0,"START",55%,44%,38%,[h],LEFT,CENTER,0
+
+roundrect=0,[xmin],56.2%,[xmax],[h],#000000,GRADIENTSEQ(#000000#FFFFFF@90, 7, 5),0.1
+roundrect=0,[xmin],68.5%,[xmax],[h],#000000,GRADIENTSEQ(#000000#FFFFFF@90, 7, 6),0.1
+
+roundrect=0,[xmin],80.8%,[xmax],[h],#000000,GRADIENTSEQ(#000000#FFFFFF@90, 7, 7),0.1
+
+FONT = Stardos Stencil, 36, BT, #ffffff
+TEXT = 0,"AXIS OF EVIL",[xmin],80.8%,[xmax],[h],CENTER,CENTER,0
+
+[side_a]=framebox(0,0,14,1,1,1,C)
+[side_b]=framebox(14,0,1,14,1,1,C)
+[side_c]=framebox(1,14,14,1,1,1,C)
+[side_d]=framebox(0,1,1,14,1,1,C)
+rectangle=0,<side*>,#000000,empty
+font=Stardos Stencil,20,TB,#000000
+text=0,"{°-1}",<side_a*>
+text=0,"{13+°}",<side_b*>,center,center,90
+text=0,"{26+16-°}",<side_c*>,center,center,180
+text=0,"{40+16-°}",<side_d*>,center,center,270
+
+save=0,"board.png"0,0,15,15
